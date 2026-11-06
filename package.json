@@ -4,7 +4,9 @@
   "description": "practica de typescript",
   "main": "index.js",
   "scripts": {
-    "dev": "tsx watch src/tipos_basicos.ts",
+    "tema3": "tsx watch src/tipos_basicos.ts",
+    "tema4": "tsx watch src/funciones.ts",
+    "tema5": "tsx watch src/interfaces.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
