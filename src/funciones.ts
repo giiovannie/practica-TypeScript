@@ -1,3 +1,5 @@
+export {};
+
 const user = ( email: string, password: string, dni?: number, estado: boolean = true): void => {
     return console.log(`email: ${email}, password: ${password}, dni: ${dni}, estado: ${estado}`);
 }

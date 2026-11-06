@@ -7,6 +7,7 @@
     "tema3": "tsx watch src/tipos_basicos.ts",
     "tema4": "tsx watch src/funciones.ts",
     "tema5": "tsx watch src/interfaces.ts",
+    "tema6": "tsx watch src/enums_literales.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
